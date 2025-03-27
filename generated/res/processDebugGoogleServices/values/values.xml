@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1015016469184-u0eb58qbd9elj6d85vc5bl0vvu6i993r.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://smartbingo-dfc5f-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+    <string name="gcm_defaultSenderId" translatable="false">1015016469184</string>
+    <string name="google_api_key" translatable="false">AIzaSyC6geLQdcvmrnR6Gi3GFUYUpIc9M0Brrww</string>
+    <string name="google_app_id" translatable="false">1:1015016469184:android:4c620af5e4054d2009f325</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC6geLQdcvmrnR6Gi3GFUYUpIc9M0Brrww</string>
+    <string name="google_storage_bucket" translatable="false">smartbingo-dfc5f.firebasestorage.app</string>
+    <string name="project_id" translatable="false">smartbingo-dfc5f</string>
+</resources>

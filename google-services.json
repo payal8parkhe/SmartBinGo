@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1015016469184",
+    "firebase_url": "https://smartbingo-dfc5f-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "smartbingo-dfc5f",
+    "storage_bucket": "smartbingo-dfc5f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015016469184:android:4c620af5e4054d2009f325",
+        "android_client_info": {
+          "package_name": "com.example.smartbingo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015016469184-u0eb58qbd9elj6d85vc5bl0vvu6i993r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6geLQdcvmrnR6Gi3GFUYUpIc9M0Brrww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015016469184-u0eb58qbd9elj6d85vc5bl0vvu6i993r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

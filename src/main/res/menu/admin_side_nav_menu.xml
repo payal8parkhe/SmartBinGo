@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_manage_drivers"
+        android:icon="@drawable/ic_drivers"
+        android:title="Manage Drivers"/>
+    <item
+        android:id="@+id/nav_manage_vehicles"
+        android:icon="@drawable/ic_vehicle"
+        android:title="Manage Vehicles"/>
+    <item
+        android:id="@+id/nav_logout"
+        android:icon="@drawable/ic_logout"
+        android:title="Logout"/>
+</menu>

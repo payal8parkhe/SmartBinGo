@@ -1,0 +1,9 @@
+<resources>
+    <style name="Theme.SmartBinGo" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">#4CAF50</item> <!-- Eco Green -->
+        <item name="colorPrimaryVariant">#388E3C</item>
+        <item name="colorSecondary">#03DAC5</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:navigationBarColor">#4CAF50</item>
+    </style>
+</resources>
